@@ -1,0 +1,213 @@
+*{margin: 0px;}
+.cararobot{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    background-color: #ff7300;
+    margin: 200px;
+}
+.ojoIz{
+    width: 45px;
+    height: 45px;
+    background-color: #8c00ff;
+    position: absolute;
+    left: 40px;
+    top: 50px;
+}
+.ojoDe{
+    width: 45px;
+    height: 45px;
+    background-color: #8c00ff;
+    position: absolute;
+    right: 40px;
+    top: 50px;
+}
+
+.pupilas{
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    
+}
+.boca{
+    width: 110px;
+    height: 10px;
+    background-color: rgb(136, 8, 168);
+    position: absolute;
+    top: 158px;
+    left: 46px;
+}
+.sombrero{
+    width: 5px;
+    height: 60px;
+    background-color: purple;
+    position: absolute;
+    top: -60px;
+    left: 96px;
+}
+.banda-sombrero{
+    width: 25px;
+    height: 25px;
+    background-color: purple;
+    position: absolute;
+    top: -73px;
+    left: 86px;
+    border-radius: 30px;
+}
+.nariz{
+    width: 40px;
+    height: 40px;
+    background-color: rgb(250, 234, 6);
+    border-radius: 50%;
+    position: absolute;
+    top: 108px;
+    left: 80px;
+}
+.orejaDe{
+    width: 40px;
+    height: 66px;
+    background-color: rgb(55, 250, 6);
+    border-radius: 50%;
+    position: absolute;
+    top: 65px;
+    left: 195px;
+}
+.orejaIz{
+    width: 40px;
+    height: 66px;
+    background-color: rgb(55, 250, 6);
+    border-radius: 50%;
+    position: absolute;
+    top: 65px;
+    left: -35px;
+}
+.cuello{
+    width: 40px;
+    height: 60px;
+    background-color: #ff7300;
+    position: absolute;
+    top: 196px;
+    left: 80px;
+}
+.pecho{
+    width: 200px;
+    height: 200px;
+    background-color: #ff7300;
+    position: absolute;
+    left: -0px;
+    top: 255px;
+}
+.pectoral1{
+    width: 130px;
+    height: 60px;
+    background-color: rgb(55, 250, 6);
+    position: absolute;
+    top: 110px;
+    left: 38px;
+}
+.pectoral2{
+    width: 130px;
+    height: 60px;
+    background-color: rgb(55, 250, 6);
+    position: absolute;
+    top: 30px;
+    left: 38px;
+}
+.brazo1{
+    width: 8px;
+    height: 120px;
+    background-color: purple;
+    position: absolute;
+    border-radius: 60px/30px;
+    top: 15px;
+    left: -55px; 
+    transform: rotate(120deg);
+}
+.dedo1{
+    width: 8px;
+    height: 25px;
+    background-color: purple;
+    position: absolute;
+    border-radius: 60px/30px;
+    top: 25px;
+    left: -102px; 
+    transform: rotate(10deg);
+}
+.dedo2{
+    width: 8px;
+    height: 25px;
+    background-color: purple;
+    position: absolute;
+    border-radius: 60px/30px;
+    top: 35px;
+    left: -110px; 
+    transform: rotate(100deg);
+}
+.brazo2{
+    width: 8px;
+    height: 120px;
+    background-color: purple;
+    position: absolute;
+    border-radius: 60px/30px;
+    top: 12px;
+    left: 245px; 
+    transform: rotate(238deg);
+}
+.dedo3{
+    width: 8px;
+    height: 25px;
+    background-color: purple;
+    position: absolute;
+    border-radius: 60px/30px;
+    top: 25px;
+    left: 280px; 
+    transform: rotate(10deg);
+}
+.cadera{
+    width: 130px;
+    height: 35px;
+    background-color: #ff7300;
+    position: absolute;
+    top: 196px;
+    left: 35px;
+}
+.pie{
+    width: 240px;
+    height: 200px;
+    background-color: #ff7300;
+    position: absolute;
+    left: -20px;
+    top: 490px;
+}
+.ropa1{
+    width: 40px;
+    height: 182px;
+    background-color: rgb(55, 250, 6);
+    position: absolute;
+    right: 10px;
+    top: 500px;
+}
+.ropa2{
+    width: 40px;
+    height: 182px;
+    background-color: rgb(55, 250, 6);
+    position: absolute;
+    right: 78px;
+    top: 500px;
+}
+.ropa3{
+    width: 40px;
+    height: 182px;
+    background-color: rgb(55, 250, 6);
+    position: absolute;
+    right: 148px;
+    top: 500px;
+}
+.titulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    text-align: center;
+}
